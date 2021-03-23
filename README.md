@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @anachkhaidze10
+- 👋 Hi, I’m Ana Chkhaidze
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning React.js
 - 💞️ I’m looking to collaborate on ...
